@@ -6,4 +6,6 @@ while (win < 5):
     win = win + 1
     print(win)
     time.sleep(1)
-    
+
+print("Oh look, there's 5 numbers")
+
